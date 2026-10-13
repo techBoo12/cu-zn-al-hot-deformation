@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Hot Deformation Behaviour of a Cu-Zn-Al Shape-Memory Alloy: Hyperbolic-Sine Constitutive Modelling in Python"
+authors:
+  - family-names: Ajufo
+    given-names: Adaikem M.
+    affiliation: "Federal University of Technology, Akure"
+license: MIT
+repository-code: "https://github.com/techBoo12/cu-zn-al-hot-deformation"
+keywords:
+  - Cu-Zn-Al
+  - shape-memory alloy
+  - hot deformation
+  - constitutive modelling
+  - Sellars-Tegart
+  - Zener-Hollomon
